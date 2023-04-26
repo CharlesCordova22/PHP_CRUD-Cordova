@@ -1,0 +1,11 @@
+WORKING BASIC CRUD PHP
+
+-FETCH
+-ADD
+-DELETE
+-UPDATE
+-SEARCH
+-PROCEDURE DATABASE
+
+
+____________________________CHARLES CORDOVA____________________________
